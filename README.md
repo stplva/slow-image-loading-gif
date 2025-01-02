@@ -4,6 +4,8 @@ This beautiful script creates a gif with 90-s style large image loading effect, 
 
 It utilizes [JIMP](https://www.npmjs.com/package/jimp) and [gif-encoder-2](https://www.npmjs.com/package/gif-encoder-2) packages.
 
+<img src="./cat-output.gif" alt="An example gif of a fat cat" width="350">
+
 ## Usage
 
 1. Clone this git repository: `git clone git@github.com:stplva/slow-image-loading-gif.git`
